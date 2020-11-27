@@ -1,0 +1,10 @@
+<html>
+<body>
+<img src="exc3.0.jpg">
+<img src="exc3.1.jpg">
+<img src="exc3.2.jpg">
+<img src="exc3.3.jpg">
+<img src="exc3.4.jpg">
+<img src="exc3.5.jpg">
+</body>
+</html>
